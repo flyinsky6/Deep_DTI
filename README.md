@@ -12,8 +12,6 @@ rdkit(2022.03.2)
 dgl(0.6.1)
 # Dataset
 The data set contains four different sub-datasets including enzymes, ion channels, GPCRs, and nuclear receptors. The information of drug-target interactions can be downloaded from the KEGG BRITE, BRENDA, Super Target, and Drug Bank databases. There are 445,210,223 and 54 drug compounds, which interact with 664, 204, 95, and 26 target proteins, respectively. The number of known interactions is 2926, 1476, 635, and 90, respectively. Then, all known interactions of the drug-target pairs are chosen as positive sample sets in our experiment.And then then select the same number of data as the positive sample from the uncorrelated interaction data as the negative sample.
-# Model
-
 # Contact
 Feel free to contact us if you nedd any help: flyinsky6@gmail.com
 
